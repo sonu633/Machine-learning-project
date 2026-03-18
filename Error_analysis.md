@@ -18,3 +18,10 @@
 9.Important signals like tone, pauses, or context are ignored.
 
 10.Features selected may not truly represent emotion.
+
+
+# insight
+Systematic error: consistent pattern (e.g., always misclassifying sad as neutral)
+
+.Random error : no clear pattern
+ Insight: Focus on fixing systematic errors first (highest impact)
